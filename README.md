@@ -17,3 +17,9 @@ Repositorio de prácticas de JavaScript, primordialmente basado en el curso prá
 - Tercer paso: Crear funciones
 - Cuarto paso: Integrar JavaScript con HTML
 
+## Taller 3: Promedio, moda y mediana
+
+- Primer paso: Definir las fórmulas
+- Segundo paso: Implementar las fórmulas en JavaScript
+- Tercer paso: Crear funciones
+- Cuarto paso: Integrar JavaScript con HTML
