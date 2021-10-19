@@ -50,3 +50,7 @@ if (esPar(lista1.length)) { //si la cantidad de elementos que hay en mi lista so
 //     }
 //     return lista1.sort(compareNumbers);
 // }
+// Otra solución
+// const numeros = [3, 23, 12];
+
+// numeros.sort(function(a, b){return a - b}); 
